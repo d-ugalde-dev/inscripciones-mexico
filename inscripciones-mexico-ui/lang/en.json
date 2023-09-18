@@ -1,0 +1,49 @@
+{
+
+    "application-name": "Inscripciones M&eacute;xico",
+    "application-copyright-year": "@2023",
+    "application-language": "en-us",
+
+    "top-bar.search": "Search",
+    "top-bar.language": "Language",
+
+    "general.save": "Save",
+    "general.save-changes": "Save changes",
+    "general.close": "Close",
+
+    "menu.menu": "Menu",
+    "menu.session": "Session",
+    "menu.login": "Login",
+    "menu.logout": "Logout",
+    "menu.profile": "My profile",
+    "menu.mode-switcher": "Mode",
+    "menu.settings": "Settings",
+    "menu.settings.roles-and-permissions": "Roles and privileges",
+
+    "login.login": "Login",
+    "login.profile": "My profile",
+    "login.logout": "Logout",
+    "login.email": "Email",
+    "login.password": "Password",
+    "login.continue-with-facebook": "Continue with Facebook",
+    "login.continue-with-google": "Continue with Google",
+
+    "profile.profile": "My profile",
+    "profile.edit": "Edit",
+    "profile.roles": "Roles",
+    "profile.name": "Name",
+    "profile.avatar": "Avatar",
+    "profile.email": "Email",
+    "profile.about-me": "About me",
+    "profile.member-since": "Member since ",
+
+    "settings.roles-and-permissions.roles": "Roles",
+    "settings.roles-and-permissions.name": "Name",
+    "settings.roles-and-permissions.description": "Description",
+    "settings.roles-and-permissions.action": "Action",
+    "settings.roles-and-permissions.edit": "Edit",
+    "settings.roles-and-permissions.delete": "Delete",
+
+    "settings.roles-and-permissions.role": "Role"
+
+}

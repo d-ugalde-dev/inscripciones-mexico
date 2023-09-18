@@ -1,0 +1,49 @@
+{
+
+    "application-name": "Inscripciones M&eacute;xico",
+    "application-copyright-year": "@2023",
+    "application-language": "es-mx",
+
+    "top-bar.search": "Buscar",
+    "top-bar.language": "Idioma",
+
+    "general.save": "Guardar",
+    "general.save-changes": "Guardar cambios",
+    "general.close": "Cerrar",
+
+    "menu.menu": "Men&uacute;",
+    "menu.session": "Sesi&oacute;n",
+    "menu.login": "Entrar",
+    "menu.logout": "Salir",
+    "menu.profile": "Mi perfil",
+    "menu.mode-switcher": "Modo",
+    "menu.settings": "Configuraci&oacute;n",
+    "menu.settings.roles-and-permissions": "Roles y permisos",
+
+    "login.login": "Entrar",
+    "login.profile": "Mi perfil",
+    "login.logout": "Salir",
+    "login.email": "Correo electr&oacute;nico",
+    "login.password": "Contrase&ntilde;a",
+    "login.continue-with-facebook": "Continuar con Facebook",
+    "login.continue-with-google": "Continuar con Google",
+
+    "profile.profile": "Mi perfil",
+    "profile.edit": "Editar",
+    "profile.roles": "Roles",
+    "profile.name": "Nombre",
+    "profile.avatar": "Avatar",
+    "profile.email": "Correo electr&oacute;nico",
+    "profile.about-me": "Acerca de m&iacute;",
+    "profile.member-since": "Miembro desde el ",
+
+    "settings.roles-and-permissions.roles": "Roles",
+    "settings.roles-and-permissions.name": "Nombre",
+    "settings.roles-and-permissions.description": "Descripci&oacute;n",
+    "settings.roles-and-permissions.action": "Acci&oacute;n",
+    "settings.roles-and-permissions.edit": "Editar",
+    "settings.roles-and-permissions.delete": "Eliminar",
+
+    "settings.roles-and-permissions.role": "Rol"
+
+}
